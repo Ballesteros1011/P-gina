@@ -1,0 +1,22 @@
+* {
+    padding: 0px;
+    margin: 0px;
+    box-sizing: border-box;
+}
+.form-registro {
+    width: 400px;
+    background-color: rgb(67, 78, 160)  ;
+    padding: 100px;
+    margin: auto;
+    margin-top: 200px;
+    border-radius: 10px;
+}
+.boton {
+    background-color: rgb(112, 108, 122);
+    border-radius: 5px;
+}
+.control {
+    border-radius: 10px;
+    margin-bottom: 5px;
+    padding: 10px;
+}
